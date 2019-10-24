@@ -1,5 +1,7 @@
 # Realtek RTL8821CE Driver
 
+# patched for 4.18.0-80 running CentOS 8
+
 ## Intent
 This repository hosts the code for the [ArchLinux AUR Package](https://aur.archlinux.org/packages/rtl8821ce-dkms-git/). It's targetting Linux > 4.14 and is being developed for ArchLinux and Ubuntu 18.10. No support will be provided for other Linux distributions or Linux Kernel versions outside of that range.
 
